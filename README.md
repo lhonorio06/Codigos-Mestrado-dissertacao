@@ -119,10 +119,8 @@ shapely
 ## Como citar
 
 ```
-FERREIRA, Lucas Honorio Gomes. O Clima Urbano do Rio de Janeiro (RJ):
-desdobramentos da produção do espaço urbano na termografia de superfície.
-2025. Dissertação (Mestrado em Geografia) — Instituto de Geografia,
-Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 2025.
+HONORIO, Lucas. O clima urbano do Rio de Janeiro (RJ): desdobramentos da produção do espaço urbano na termografia de superfície. 2026. 112 f.
+Dissertação (Mestrado em Geografia) – Instituto de Geografia, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 2026.
 Códigos disponíveis em: https://github.com/lhonorio06/Codigos-Mestrado-dissertacao
 ```
 
@@ -132,5 +130,4 @@ Códigos disponíveis em: https://github.com/lhonorio06/Codigos-Mestrado-dissert
 
 **Lucas Honorio Gomes Ferreira**  
 Programa de Pós-Graduação em Geografia — UERJ  
-Secretaria de Estado do Ambiente e Sustentabilidade — SEAS/RJ  
 GitHub: [@lhonorio06](https://github.com/lhonorio06)
